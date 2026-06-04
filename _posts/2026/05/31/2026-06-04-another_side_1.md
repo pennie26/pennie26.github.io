@@ -12,6 +12,7 @@ categories: []
 
 # Part 1: Pride
 ## Chapter 1: Angel
+
   Let’s just say… I’m the nicest person you could ever meet.
   [Did you lose your mind? You’re just good at lying.] 
   Devil just ruined my moment. Anyway, I’m Yugi’s bright side. The side that is shown to everyone. Let me tell you a bit about Yugi. Well, she is kind, nice and extremely innocent in her primary years. I could still remember the time in Year 5 when her used-to-be-crush gave her the finger just to tease her. It’s clear that she understood the finger means no good, but it was a year later  for her to really fully understand that the finger is an insult, even if the case in Year 5 is just for teasing. 

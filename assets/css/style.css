@@ -13,15 +13,15 @@
   --text: #1a202c;
   --muted: #4a5568;
   --border: #cbd5e0;
-  --accent: #1a5cad;
-  --accent-hover: #0b4a94;
+  --accent: #5b0404;
+  --accent-hover: #5b0404;
   --code-bg: #edf2f7;
   --code-text: #9b2335;
   --pre-bg: #0f2237;
   --pre-text: #e2e8f0;
   --radius: 8px;
   --transition: 150ms ease;
-  --header: #6F00FF;
+  --header: #8f262b;
 }
 
 html {

@@ -29,7 +29,10 @@ html {
 }
 
 body {
-    font-family: 'Quicksand', sans-serif;
+    body {
+  font-family: "Inter", sans-serif;
+  /* Improves readability of mixed-case and lower-case text */
+  font-feature-settings: "calt" 1, "liga" 1; 
 }
   font-size: 1.0625rem; /* 17px */
   line-height: 1.75;

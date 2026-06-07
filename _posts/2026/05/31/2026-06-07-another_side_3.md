@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Another side"
-date: yyyy-mm-dd hh:mm:ss +1200
+date: 2026-06-07 16:16:00 +1200
 description: " - "
 author: "Pennie"
 categories: []

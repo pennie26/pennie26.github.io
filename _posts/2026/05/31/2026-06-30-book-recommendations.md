@@ -27,13 +27,13 @@ I've noticed that a lot of my classmates and friends my age specifically like mu
     - The Last Devil To Die
     - The Impossible Fortune
  
-  - Oxford Blood
+- Oxford Blood
 
-  - Keigo Higashino's books
-      - Silent Parade
-      - **The Devotion Of Suspect X**
-      - Newcomer
-      - Malice
+- Keigo Higashino's books
+    - Silent Parade
+    - **The Devotion Of Suspect X**
+    - Newcomer
+    - Malice
 
 ## Psychological/Mind games books
 I personally really like these type of psychological books. It has less action and/or fighting compares to murder mysteries but carries the same suspense and tension. When reading these type of books, I have a very bad habit of flipping to the next few pages to see what will happen or google it up, which is definitely NOT recommended.

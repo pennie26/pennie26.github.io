@@ -113,6 +113,8 @@ lost, heroic dreams.
 ゆめのあと
 
 ## Pitch Language
+[Resource(s)](https://youtu.be/jt04eg9T2sE?si=I3hebRmboD30wPm3)
+
 - Similar to English stress on words, Japanese also have a 'stress' that we called 'accent'.
 
 Example: 
@@ -155,6 +157,8 @@ If the mora before 人 is a long vowel, a double consonant, or 'n' (ん), the ac
 3. If you attached 'desu' (です）to an accented word, you will treat 'desu' as a flat word. The same applied to 'masu' (ます)
 
 ## Bonus - Different ways to say 'I' in Japanese
+[Resource(s)](https://youtu.be/eZVIe0Nvj5Y?si=eGYW4gEhObsAjczX)
+
 These are the most common ways to say 'I' in Japanese.
 1. Watashi (わたし)
 - Casual: Mostly used by women

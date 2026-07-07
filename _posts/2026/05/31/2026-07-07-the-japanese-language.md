@@ -13,10 +13,12 @@ I did a research about the Japanese language while I'm learning it, and it was r
 
 ## Writing systems
 Japanese is widely considered as one of the hardest languages to learn. This is because of its complex (and interesting) writing systems.
+
 Japanese has 3 alphabets - Hiragana, Katakana, and Kanji.
 
 1. Hiragana - ひらがな
-Hiragana features flowing, rounded strokes and is used to write native Japanese words and grammar, such as あか (red), は (topic-marker particle), and etc. 
+Hiragana features flowing, rounded strokes and is used to write native Japanese words and grammar, such as あか (red), は (topic-marker particle), and etc.
+
 The hiragana chart consists of:
 - 46 basic hiragana
 - 25 variations (or extended sounds)
@@ -30,6 +32,7 @@ Sounds hard, right? But once you get the hang of the 46 basics, the combinations
 
 2. Katakana - カタカナ
 Katakana features sharp, angular strokes, and is used for foreign loanwords and emphasis.
+
 Fun fact: It is developed from Chinese abbreviations.
 
 For example: 
@@ -50,17 +53,23 @@ For example:
   - Heartbeats > ドキドキ (dokidoki)
 
 Similar to hiragana, the katakana chart also consists of 46 basic characters, although one is considered obsolete, so that leaves us with 45 characters actively in use for daily writing.
+
 There are also variations and combinations, just like hiragana. 
 
 <img width="736" height="1041" alt="Katakana alfabesi" src="https://github.com/user-attachments/assets/6caf1353-8ea9-4485-aa3d-b2217376c492" />
 
 3. Kanji (漢字)
 Kanji is used for Japanese native words, and you can think of it as a shorter version of hiragana.
+
 Despite being a shorter version, it has over 50 000 characters, and its characters are very similar to Chinese, so good luck learning all of them.
+
 (if you're Chinese, lucky you!)
+
 You only need to know approximately 2 000 characters for daily needs, so no worries.
 Kanji have 2 main pronunciations, On-yomi and Kun-yomi.
+
 On-yomi (Chinese reading) is used in compound words and Kun-yomi (Japanese reading) is used for solitary kanji or words with attached hiragana.
+
 Complex, isn't it?
 
 <img width="736" height="1042" alt="_ (2)" src="https://github.com/user-attachments/assets/4a8262ee-060b-471f-a0da-4c423808103b" />
@@ -89,11 +98,15 @@ Various of Japanese dialects are divided into 3 groups:
 - A mora is a smaller unit of timing.
 
 For example: 
+
 Osaka consists of 3 syllables, but 4 morae. 
+
 Osaka > O-o-sa-ka (おおさか)
 
 Kanto consists of 2 syllables, but 4 morae.
+
 Kanto > Ka-n-to-o
+
 - One mora, two morae.
 
 In poetic compositions, kanto is counted as having 4 rather than 2, rhythmic units & would be equivalent in length to a 4 syllable, 4 morae word like 'murasaki' (purple ; むらさき）
@@ -104,12 +117,17 @@ You might have heard of a 'haiku' before. A haiku is a specific type of poem whi
 For example:
 
 The summer grasses
+
 All that remains of soldiers'
+
 lost, heroic dreams. 
+
 > Matsuo Bashō
 
 なつくさや
+
 つわものどもが
+
 ゆめのあと
 
 ## Pitch Language
@@ -120,13 +138,16 @@ lost, heroic dreams.
 Example: 
 
 Fruit: くだもの - kudamono
+
 The accent is on 'だ' (da), so it will be pronounce higher from 'ku' to 'da', and then lower from 'da' to 'no'.
 
 Music: おんがく - ongaku
-the accent is on 'お' (o), so it will be pronounce lower from 'o' to 'ku'.
+
+The accent is on 'お' (o), so it will be pronounce lower from 'o' to 'ku'.
 
 ### Flat words
 - What is a flat word?
+
 A flat word is a word **without** an accent. In falt words, we usually lower the pitch of the first mora and go with the same pitch for the rest.
 
 
@@ -136,20 +157,28 @@ A flat word is a word **without** an accent. In falt words, we usually lower the
 Theorically, it will be pronounce in rising pitch. But if nothing is attached, it is pronounce like a flat word. 
 
 If something is attached to it, people still pronounce the pitch. 
+
 Example:
+
 Younger sister - 
+
 Imouto (いもうと) - the accent on 'to' (と), but it will be pronounce as a flat word.
+
 Imouto desu (いもうとです) - the accent will still be pronounce, which is on 'to'.
 
 ### Useful rules
 1. If any word has 語 ('go' - language) at the end, it will become a flat word.
 
 For example, 
+
 Italy: Itaria (イタリア) - the accent on 'ta' (タ).
+
 Italy **language**: Itaria go (イタリア語) - a flat word.
 
 2. If 人 (jin - people) is attached, the accent is usually on the mora before jin.
+
 For example,
+
 Vietnamese people: betonamu jin (ベトナム人) - the accent is on 'mu' (ム)
 
 If the mora before 人 is a long vowel, a double consonant, or 'n' (ん), the accent shifted to the previous mora. 
@@ -160,6 +189,7 @@ If the mora before 人 is a long vowel, a double consonant, or 'n' (ん), the ac
 [Resource(s)](https://youtu.be/eZVIe0Nvj5Y?si=eGYW4gEhObsAjczX)
 
 These are the most common ways to say 'I' in Japanese.
+
 1. Watashi (わたし)
 - Casual: Mostly used by women
 - Formal: Used by both genders in business settings

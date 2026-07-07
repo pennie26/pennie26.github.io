@@ -123,7 +123,7 @@ All that remains of soldiers'
 
 lost, heroic dreams. 
 
-> Matsuo Bashō
+Matsuo Bashō
 
 なつくさや
 

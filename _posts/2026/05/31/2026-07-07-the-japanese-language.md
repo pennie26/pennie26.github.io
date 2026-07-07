@@ -7,9 +7,9 @@ author: "Pennie"
 categories: []
 ---
 
-I did a research about the Japanese language while I'm learning it, and it was really interesting. 
 
 <!--more-->
+I did a research about the Japanese language while I'm learning it, and it was really interesting. 
 
 ## Writing systems
 Japanese is widely considered as one of the hardest languages to learn. This is because of its complex (and interesting) writing systems.

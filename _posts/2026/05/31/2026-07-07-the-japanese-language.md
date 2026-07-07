@@ -29,8 +29,8 @@ This adds up to a total of 104 possibilites.
 Sounds hard, right? But once you get the hang of the 46 basics, the combinations and the variations are super easy.
 
 <img width="736" height="1041" alt="_ (1)" src="https://github.com/user-attachments/assets/c86a330f-015b-4708-b0ca-61d76ca7e48a" />
-
 2. Katakana - カタカナ
+
 Katakana features sharp, angular strokes, and is used for foreign loanwords and emphasis.
 
 Fun fact: It is developed from Chinese abbreviations.
@@ -59,6 +59,7 @@ There are also variations and combinations, just like hiragana.
 <img width="736" height="1041" alt="Katakana alfabesi" src="https://github.com/user-attachments/assets/6caf1353-8ea9-4485-aa3d-b2217376c492" />
 
 3. Kanji (漢字)
+
 Kanji is used for Japanese native words, and you can think of it as a shorter version of hiragana.
 
 Despite being a shorter version, it has over 50 000 characters, and its characters are very similar to Chinese, so good luck learning all of them.

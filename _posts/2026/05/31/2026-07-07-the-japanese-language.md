@@ -16,7 +16,7 @@ Japanese is widely considered as one of the hardest languages to learn. This is 
 
 Japanese has 3 alphabets - Hiragana, Katakana, and Kanji.
 
-1. Hiragana - ひらがな
+1.Hiragana - ひらがな
 Hiragana features flowing, rounded strokes and is used to write native Japanese words and grammar, such as あか (red), は (topic-marker particle), and etc.
 
 The hiragana chart consists of:
@@ -29,7 +29,7 @@ This adds up to a total of 104 possibilites.
 Sounds hard, right? But once you get the hang of the 46 basics, the combinations and the variations are super easy.
 
 <img width="736" height="1041" alt="_ (1)" src="https://github.com/user-attachments/assets/c86a330f-015b-4708-b0ca-61d76ca7e48a" />
-2. Katakana - カタカナ
+2.Katakana - カタカナ
 
 Katakana features sharp, angular strokes, and is used for foreign loanwords and emphasis.
 
@@ -58,7 +58,7 @@ There are also variations and combinations, just like hiragana.
 
 <img width="736" height="1041" alt="Katakana alfabesi" src="https://github.com/user-attachments/assets/6caf1353-8ea9-4485-aa3d-b2217376c492" />
 
-3. Kanji (漢字)
+3.Kanji (漢字)
 
 Kanji is used for Japanese native words, and you can think of it as a shorter version of hiragana.
 

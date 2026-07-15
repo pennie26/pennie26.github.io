@@ -31,7 +31,7 @@ I've watched the scene a thousand times, it was... hilarious, in someway (if you
 
 ### Koro-sensei
 
-Move on to Koro-sensei. The part I like best about him is his alien-like laugh. It's like high, and it sounds like 'nuruhuhuhuhu'. You should probably search it up on Youtube or something, reading my description won't help you a bit. 
+Move on to Koro-sensei. The part I like best about him is his alien-like laugh. It's like high, and it sounds like 'nuruhuhuhuhu'. You should probably search it up on Youtube or something, since reading my description won't help you a bit. 
 
 Secondly, he's like a motherhen himself. He always care about his students, and it's really sweet. I just love the dynamics between the teacher and the students, it's not a serious, stern one, but more like a mother duck with it's ducklings. 
 

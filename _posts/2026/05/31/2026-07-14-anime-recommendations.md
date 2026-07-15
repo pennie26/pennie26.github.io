@@ -1,16 +1,5 @@
  
----
-layout: post
-title: "Anime - アニメ"
-date: 2026-07-15 16:46:00 +1200
-description: ""
-author: "Pennie"
-categories: []
----
 
-Some anime recommendations :)
-
-<!--more-->
 
 This is based on my personal opinion, and no spoilers.
 

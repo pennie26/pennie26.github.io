@@ -1,4 +1,3 @@
- 
 ---
 layout: post
 title: "Anime Recommendations"
@@ -11,8 +10,6 @@ categories: []
 This is based on my personal opinion, and no spoilers.
 
 <!--more-->
-
-This is based on my personal opinion, and no spoilers.
 
 # 1. Assassination Classroom
 

@@ -1,3 +1,17 @@
+ 
+---
+layout: post
+title: "Anime Recommendations"
+date: 2026-07-16 17:01:00 +1200
+description: ""
+author: "Pennie"
+categories: []
+---
+
+This is based on my personal opinion, and no spoilers.
+
+<!--more-->
+
 This is based on my personal opinion, and no spoilers.
 
 # 1. Assassination Classroom

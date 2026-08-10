@@ -86,7 +86,7 @@ Aw, they should have kissed.
 
 ---
 
-Overall, this is an amazing anime movie for anyone who prefers movies more than series. This movie is about 2 hours, so that's *perfect*. You would love this if you prefer an exciting adventure that doesn't include much fighting, and you wouldn't have to see blood spilling. But it might make your life more depressing if you suddenly drop it at the middle of the movie, so please watch it till the end. I guarantee you won't regret this.
+Overall, this is an amazing anime movie for anyone who prefers movies more than series. This movie is about 2 hours, so that's *perfect*. You would love this if you prefer an exciting adventure that doesn't include much fighting, and you wouldn't have to see blood spilling. But it might make your life more depressing if you suddenly drop it at the middle of the movie, so please watch it till the end. I guarantee that you won't regret this.
 
 ---
 

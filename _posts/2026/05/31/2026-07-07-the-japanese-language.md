@@ -4,7 +4,7 @@ title: "The Japanese Language"
 date: 2026-07-07 21:07:00 +1200
 description: ""
 author: "Pennie"
-categories: []
+categories: [Japanese]
 ---
 
 

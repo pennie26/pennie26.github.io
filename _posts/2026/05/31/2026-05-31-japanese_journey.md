@@ -4,7 +4,7 @@ title: "My Japanese Journey"
 date: 2026-06-04 12:35:00 +1200
 description: "How I started learning Japanese 🇯🇵"
 author: "Pennie"
-categories: []
+categories: [Japanese]
 ---
 
 

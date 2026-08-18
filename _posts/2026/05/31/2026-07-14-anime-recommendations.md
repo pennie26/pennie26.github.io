@@ -7,13 +7,11 @@ author: "Pennie"
 categories: []
 ---
 
-This is based on my personal opinion, and no spoilers.
-
 <!--more-->
 
 # 1. Assassination Classroom
 
-Assassination Classroom is a very good series of 2 main seasons, an extra season, and a recap movie that just got released this March.
+Assassination Classroom is a very good series of 2 main seasons, an extra season, and a recap movie that just got released this March (2026).
 
 I haven't watched the recap movie yet, but for the rest of the anime, it's very good. It's a mix of comedy, a bit of action, and the last scene is very emotional. If you're going to watch this, prepare tissues when you reached the last episodes of the second seasons. 
 
@@ -21,19 +19,13 @@ Let me give you a brief plot. The story revolves around Nagisa Shiota, a member 
 
 On their last year of school, a weird, octopus-like teacher moved in. His name is Koro-sensei. The students of class E have to kill their own teacher by March 18th, otherwise, he would blow up the Earth with his inhumane strength.
 
-Every character in this anime is very significant and super super super cool in my own opinion. My favourite character is *obviously* Karma Akabane. 
+Every character in this anime is very significant and super super super cool in my own opinion. 
 
-He has such a unique name and he is feisty and sassy. His combat skills are top notch, and so is his amazing mindset. He became a successful bureaucrat when he grow up. He extremely likes strawberry milk, and he also likes teasing Nagisa. 
-
-The fandom ships Karma and Nagisa a lot, but I don't really like the ship because I already ship Nagisa with someone else (Kayano). 
-
-I ship Karma with Okuda and Nakamura, because well, Karma did mentioned he liked Okuda best in the class, and in a pretty heated scene when a certain someone reveals their true identity, and when Nagisa did a certain something, both Karma and Nakamura - in sync - film that particular scene on their phones and tease Nagisa about that later in the series. 
-
-I've watched the scene a thousand times, it was... hilarious, in someway (if you know you know). 
-
-Move on to Koro-sensei, the octopus-like teacher. The part I like best about him is his alien-like laugh. It's high, and it sounds like 'nuruhuhuhuhu'. You should probably search it up on Youtube or something, since reading my description won't help you imagine his laugh.
+I like Koro-sensei's alien-like laugh the best. It's high, and it sounds like 'nuruhuhuhuhu'. You should probably search it up on Youtube or something, since reading my description won't help you imagine his laugh. But trust me, it's hilarious.
 
 Secondly, he's like a motherhen himself. He always care about his students, and it's really sweet. I just love the dynamics between the teacher and the students, it's not a serious, stern one, but more like a mother duck with it's ducklings. 
+
+I think this anime is a mix of adventures, a HINT of romance, a lot of laugh, and certainly, a lot of tears. 
 
 --- 
 
@@ -52,17 +44,19 @@ The story revolves around young Maomao, who got kidnapped and sent to the rear p
 
 (she is a super beautiful character, so check her out)
 
-And while she thought her life is going to be normal, she was constantly being pulled into solving mysteries by the handsome eunuch Jinshi. 
+And while Maomao thought her life is going to be normal, she was constantly being pulled into solving mysteries by the handsome eunuch Jinshi.
 
-The characters in this story are well built and there are a variety of characters. From the handsome Jinshi to the Emperor, even Concubine Loulan, and of course, our precious Maomao. They all have different perspectives and different ways of doing things. It honestly amused me how such different personalities could hang out together so happily. Ah, how much I hope for a friendship like that. 
+The characters in this story are well built and there are a variety of characters. From the handsome Jinshi to the Emperor, even Concubine Loulan, and of course, our precious Maomao. They all have different perspectives and different ways of doing things. It honestly amused me how such different personalities could hang out together so happily.  
 
 I really love the character's banter. It still have the respectful end to it, but it isn't too stiff or too formal. I think the author did a great job in building dialogues and conversations. 
 
-When I first started watching, I nearly crashed about because someone was being annoying. But it was fun, watching the mystery unfold. I nearly solved one mystery by myself, and I was so proud. 
+When I first started watching, I nearly crashed about because someone was being annoying. But it was fun, watching the mystery unfold. It is not predictable, and it certainly is not boring either. 
+
+Season 3 is coming out on October 2nd 2026, and the movie is coming out in December. 
 
 ---
 
-Overall, this is an amazing anime, and I can say this is my favourite anime of all the anime I have watched. It's perfect if you love mysteries, if you love the theme of princesses and princes, and also perfect if you're looking for a romance that IS cringe (well, there are some cringey scenes, but *cough* trust me, it will get real good).
+Overall, this is an amazing anime, and I can say this is my favourite anime of all the anime I have watched. It's perfect if you love mysteries, if you love the theme of princesses and princes, and also perfect if you're looking for a romance that IS a bit cringe (well, there are some cringey scenes, but *cough* trust me, it will get real good).
 
 ---
 
@@ -82,15 +76,15 @@ And yes, Daijin successfully helped Suzume and Souta at the end!
 
 Well, one thing that frustrates me is that Suzume and Souta haven't kiss... Well, you might find that super random right now, but once you watch it, you will understand. 
 
-Aw, they should have kissed. 
-
 ---
 
 Overall, this is an amazing anime movie for anyone who prefers movies more than series. This movie is about 2 hours, so that's *perfect*. You would love this if you prefer an exciting adventure that doesn't include much fighting, and you wouldn't have to see blood spilling. But it might make your life more depressing if you suddenly drop it at the middle of the movie, so please watch it till the end. I guarantee that you won't regret this.
 
 ---
 
+# 4. The Fragrant Flower Blooms With Dignity
 
+This anime is AMAZING. It is a romance anime of 2 students from 2 rival schools. And no, it is not enemies to lovers or rivals to lovers. 
 
 
 
